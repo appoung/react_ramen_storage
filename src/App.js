@@ -3,7 +3,6 @@ import React, { useState } from "react";
 const RamenInventoryManagement = () => {
   const [ramenList, setRamenList] = useState([]);
   const [newRamenName, setNewRamenName] = useState("");
-
   const addRamen = (name) => {
     const newRamenList = [...ramenList, { name, count: 0 }];
     setRamenList(newRamenList);
@@ -29,6 +28,11 @@ const RamenInventoryManagement = () => {
       setRamenList(newRamenList);
     }
   };
+  const deleteRamen = (index) => {
+    const newRamenList = [...ramenList];
+    newRamenList.splice(index, 1);
+    setRamenList(newRamenList);
+  };
 
   return (
     <div className="ramenstorage">
@@ -47,6 +51,7 @@ const RamenInventoryManagement = () => {
               />
               <button onClick={() => incrementRamenCount(index)}>▲</button>
               <button onClick={() => decrementRamenCount(index)}>▼</button>
+              <button onClick={() => deleteRamen(index)}>❌</button>
             </li>
           ))}
         </ul>
