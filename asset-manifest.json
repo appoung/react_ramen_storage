@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/react_ramen_storage/static/css/main.77c2ba49.css",
-    "main.js": "/react_ramen_storage/static/js/main.0decb31e.js",
+    "main.css": "/react_ramen_storage/static/css/main.36ec5f29.css",
+    "main.js": "/react_ramen_storage/static/js/main.dee8b794.js",
     "static/media/NanumSquareRoundR.ttf": "/react_ramen_storage/static/media/NanumSquareRoundR.f062cb52be3e9829834c.ttf",
     "static/media/NanumSquareRoundB.ttf": "/react_ramen_storage/static/media/NanumSquareRoundB.8ab117fc37409bd022e5.ttf",
     "static/media/NanumSquareRoundEB.ttf": "/react_ramen_storage/static/media/NanumSquareRoundEB.ef4043133d5b2d0febb4.ttf",
     "static/media/NanumSquareRoundL.ttf": "/react_ramen_storage/static/media/NanumSquareRoundL.34b53f3711c695552994.ttf",
-    "static/media/background-image.jpeg": "/react_ramen_storage/static/media/background-image.969a33aa0b48a007827a.jpeg",
     "index.html": "/react_ramen_storage/index.html",
-    "main.77c2ba49.css.map": "/react_ramen_storage/static/css/main.77c2ba49.css.map",
-    "main.0decb31e.js.map": "/react_ramen_storage/static/js/main.0decb31e.js.map"
+    "main.36ec5f29.css.map": "/react_ramen_storage/static/css/main.36ec5f29.css.map",
+    "main.dee8b794.js.map": "/react_ramen_storage/static/js/main.dee8b794.js.map"
   },
   "entrypoints": [
-    "static/css/main.77c2ba49.css",
-    "static/js/main.0decb31e.js"
+    "static/css/main.36ec5f29.css",
+    "static/js/main.dee8b794.js"
   ]
 }
