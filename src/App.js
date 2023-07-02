@@ -42,13 +42,15 @@ const RamenInventoryManagement = () => {
       </div>
       <div>
         <ul>
+          <hr></hr>
           {ramenList.map((ramen, index) => (
             <li key={index}>
               <span>
-                {ramen.name} - : {ramen.count}개
+                {ramen.name} : {ramen.count}개
               </span>
               <br></br>
               <input
+                style={{ width: "5ch" }}
                 type="number"
                 value={ramen.count}
                 onChange={(e) => updateRamenCount(index, e.target.value)}
@@ -86,7 +88,13 @@ const RamenInventoryManagement = () => {
             value={newRamenName}
             onChange={(e) => setNewRamenName(e.target.value)}
           />
-          <input className="addbutton" type="submit" value="추가" />
+          <input
+            style={{ width: "5ch" }}
+            className="addbutton"
+            type="submit"
+            value="추가"
+          />
+          <hr></hr>
         </form>
       </div>
     </div>
