@@ -1,0 +1,74 @@
+@font-face {
+  font-family: "NanumSquareRoundR";
+  src: url("../src/fonts/NanumSquareRoundR.ttf") format("truetype");
+  /* 폰트 파일의 경로와 형식을 정확하게 지정해야 합니다. */
+  /* 필요에 따라 font-weight 및 font-style을 지정할 수도 있습니다. */
+}
+@font-face {
+  font-family: "NanumSquareRoundB";
+  src: url("../src/fonts/NanumSquareRoundB.ttf") format("truetype");
+}
+@font-face {
+  font-family: "NanumSquareRoundEB";
+  src: url("../src/fonts/NanumSquareRoundEB.ttf") format("truetype");
+}
+@font-face {
+  font-family: "NanumSquareRoundL";
+  src: url("../src/fonts/NanumSquareRoundL.ttf") format("truetype");
+}
+
+* {
+  font-family: "NanumSquareRoundR";
+}
+button {
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+}
+input {
+  font-size: 16px;
+}
+.ramenbuttons {
+  padding: none;
+}
+.uparrow {
+  background-color: tomato;
+  margin-left: 10px;
+}
+.downarrow {
+  background-color: dodgerblue;
+  margin-left: 5px;
+}
+.xbutton {
+  background-color: gray;
+  margin-left: 5px;
+}
+.addbutton {
+  background-color: limegreen;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 19px;
+  margin-left: 10px;
+}
+body {
+  background-image: url("../src/background-image.jpeg");
+}
+span {
+  background-color: white;
+  border: 1px solid black;
+}
+h1 {
+  font-family: "NanumSquareRoundEB";
+}
+h2 {
+  font-family: "NanumSquareRoundB";
+}
+.ramenstorage__title {
+  background-color: white;
+}
