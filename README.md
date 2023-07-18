@@ -1,3 +1,11 @@
+# Ramen_storage_frontend
+
+
+React를 이용해 만든 라면재고 관리 웹 (라면창고) 프론트엔드
+
+
+*  https://appoung.github.io/ramen_storage_frontend/
+*  [![Github: ramenV2Backend](https://img.shields.io/badge/Github-ramenStorageV2-6528F7.svg)](https://github.com/appoung/ramen_storageV2)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
