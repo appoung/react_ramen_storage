@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react_ramen_storage/static/css/main.7be1e58f.css",
-    "main.js": "/react_ramen_storage/static/js/main.dee8b794.js",
-    "static/media/NanumSquareRoundR.ttf": "/react_ramen_storage/static/media/NanumSquareRoundR.f062cb52be3e9829834c.ttf",
-    "static/media/NanumSquareRoundB.ttf": "/react_ramen_storage/static/media/NanumSquareRoundB.8ab117fc37409bd022e5.ttf",
-    "static/media/NanumSquareRoundEB.ttf": "/react_ramen_storage/static/media/NanumSquareRoundEB.ef4043133d5b2d0febb4.ttf",
-    "static/media/NanumSquareRoundL.ttf": "/react_ramen_storage/static/media/NanumSquareRoundL.34b53f3711c695552994.ttf",
-    "index.html": "/react_ramen_storage/index.html",
-    "main.7be1e58f.css.map": "/react_ramen_storage/static/css/main.7be1e58f.css.map",
-    "main.dee8b794.js.map": "/react_ramen_storage/static/js/main.dee8b794.js.map"
+    "main.css": "/ramen_storage_frontend/static/css/main.33df0a08.css",
+    "main.js": "/ramen_storage_frontend/static/js/main.dee8b794.js",
+    "static/media/NanumSquareRoundR.ttf": "/ramen_storage_frontend/static/media/NanumSquareRoundR.f062cb52be3e9829834c.ttf",
+    "static/media/NanumSquareRoundB.ttf": "/ramen_storage_frontend/static/media/NanumSquareRoundB.8ab117fc37409bd022e5.ttf",
+    "static/media/NanumSquareRoundEB.ttf": "/ramen_storage_frontend/static/media/NanumSquareRoundEB.ef4043133d5b2d0febb4.ttf",
+    "static/media/NanumSquareRoundL.ttf": "/ramen_storage_frontend/static/media/NanumSquareRoundL.34b53f3711c695552994.ttf",
+    "index.html": "/ramen_storage_frontend/index.html",
+    "main.33df0a08.css.map": "/ramen_storage_frontend/static/css/main.33df0a08.css.map",
+    "main.dee8b794.js.map": "/ramen_storage_frontend/static/js/main.dee8b794.js.map"
   },
   "entrypoints": [
-    "static/css/main.7be1e58f.css",
+    "static/css/main.33df0a08.css",
     "static/js/main.dee8b794.js"
   ]
 }
