@@ -1,7 +1,8 @@
 {
-  "homepage": "https://appoung.github.io/react_ramen_storage",
+  "homepage": "https://appoung.github.io/ramen_storage_frontend",
   "name": "react_ramen_storage",
   "version": "0.1.0",
+  "proxy": "http://127.0.0.1:5000",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
