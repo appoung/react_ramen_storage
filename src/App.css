@@ -76,15 +76,24 @@ input {
   margin-left: 10px;
 }
 .downarrow {
-  background-color: #2f81f7;
+  background-color: #77bdfb;
   margin-left: 5px;
 }
 .xbutton {
-  background-color: #a371f7;
+  background-color: #cea5fb;
   margin-left: 5px;
 }
 .addbutton {
-  background-color: #238636;
+  background-color: #7ce38b;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-left: 10px;
+}
+.resetbutton {
+  background-color: #faa356;
   border: none;
   color: white;
   text-align: center;
@@ -101,4 +110,7 @@ h2 {
 }
 .ramenstorage__title {
   color: white;
+}
+span {
+  font-size: x-large;
 }
